@@ -2,8 +2,12 @@
   "name": "oop",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "index": "node --watch ./index.js"
+    "index": "node --watch ./index.js",
+    "auto": "node --watch ./auto.js",
+    "Car": "node --watch ./js/Car.js"
+    
   },
   "keywords": [],
   "author": "",
