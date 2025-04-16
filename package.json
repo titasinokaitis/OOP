@@ -6,6 +6,8 @@
   "scripts": {
     "index": "node --watch ./index.js",
     "auto": "node --watch ./auto.js",
+    "static": "node --watch ./static.js",
+    "animals": "node --watch ./animals.js",
     "Car": "node --watch ./js/Car.js"
     
   },
